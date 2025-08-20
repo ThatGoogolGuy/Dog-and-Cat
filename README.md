@@ -1,2 +1,1 @@
-# Dog-and-Cat
-Chose between the dog or cat and command it to bark and sniff or meow and purr!
+First program i made without a tutorial!
