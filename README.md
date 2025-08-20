@@ -1,1 +1,1 @@
-First program i made without a tutorial!
+First program I made without a tutorial!
